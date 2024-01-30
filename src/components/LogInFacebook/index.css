@@ -1,0 +1,19 @@
+.login {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.facebook-login-btn {
+  margin: 3%;
+  height: 55px;
+  border-radius: 25px;
+  width: 275px;
+  /* background-color: #f3eeee; */
+
+  text-align: center;
+}
+.facebook-logo {
+  height: 30.5px;
+  margin-right: 5%;
+}

@@ -1,0 +1,17 @@
+/* background-color: #f0f0f0; */
+.container {
+  border: 1px solid #656565;
+  /* border: 1px solid white; */
+  margin: 1.5% 0%;
+  padding: 3%;
+}
+.bg-and-font-color {
+  /* background-color: #f0f0f0; */
+  background-color: #022855;
+  color: white;
+}
+/* .highlight-button {
+  margin: 2% 0;
+  background-color: #00b3bf;
+  border: none;
+} */

@@ -1,0 +1,61 @@
+.up-bar {
+  display: flex;
+  padding: 20px 20px;
+}
+img {
+  height: 25px;
+}
+.logo {
+  height: 35px;
+  margin-left: auto;
+}
+.srch-btn {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+.up-bar-btns {
+  border-radius: 25px;
+  border: 2px solid black;
+  height: 40px;
+  padding: 0 20px 0 20px;
+  margin-right: 30px;
+}
+.memory-btn {
+  background-color: #00b3bf;
+  color: #ffffff;
+  border-color: #00b3bf;
+}
+.btns:hover {
+  -webkit-box-shadow: 5px 2px 15px -7px rgba(0, 0, 0, 0.66);
+  box-shadow: 5px 2px 15px -7px rgba(0, 0, 0, 0.66);
+}
+.memory-btn:hover {
+  background-color: #0a8992;
+  border-color: #0a8992;
+}
+
+.profile-btn {
+  width: 42px;
+  height: 42px;
+  border: none;
+  position: relative; /* הוספת פוזיציה יחסית לכפתור */
+}
+
+.profile-img-container {
+  position: absolute; /* פוזיציה מוחלטת למערך התמונה */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  clip-path: circle(50%); /* יצירת חיתוך עגול */
+}
+
+.profile-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+/* button {
+  padding: 10px;
+} */

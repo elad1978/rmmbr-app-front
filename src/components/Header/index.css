@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@700&display=swap");
+.headerStyles {
+  /* position: relative; */
+  font-size: 70px;
+  /* display: inline-block; */
+  font-family: Assistant;
+  color: black;
+  justify-content: center;
+  /* width: 772px;
+  height: 176px; */
+}

@@ -1,0 +1,24 @@
+.deceaseds-btn-container {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 10px; /* Adjust the margin as needed */
+}
+.deceaseds-plus-btn {
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.deceaseds-plus-btn {
+  border: 1px solid #b1afaf;
+  background-color: #d9d9d9;
+  width: 120px;
+}
+.deceaseds-plus-span {
+  font-size: 250%;
+  background-color: #d9d9d9;
+}
+.deceaseds-plus-btn-text {
+  display: inline-block;
+  background-color: #d9d9d9;
+  width: 50%;
+}
